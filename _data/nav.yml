@@ -12,7 +12,7 @@ items:
   icon_class: fas fa-book-reader
 
 - url: /assignments/
-  name: Assignments
+  name: Labs
   icon_class: fas fa-user-graduate
 
 - url: /project/
@@ -20,5 +20,5 @@ items:
   icon_class: fas fa-user-graduate
 
 - url: /materials/
-  name: Materials
+  name: Textbooks
   icon_class: fas fa-book
