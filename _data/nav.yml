@@ -15,10 +15,6 @@ items:
   name: Labs
   icon_class: fas fa-user-graduate
 
-- url: /project/
-  name: Project
-  icon_class: fas fa-user-graduate
-
 - url: /materials/
   name: Textbooks
   icon_class: fas fa-book
