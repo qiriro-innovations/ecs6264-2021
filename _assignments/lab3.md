@@ -2,7 +2,7 @@
 type: assignment
 date: Sat Oct  9 22:48:04 CAT 2021
 title: 'Lab #3 - Alarm clock'
-pdf: /static_files/labs/lab2/lab3.pdf
+pdf: /static_files/labs/lab3/lab3.pdf
 attachment: /static_files/labs/lab3/Lab3.zip
 due_event: 
     type: due
