@@ -11,6 +11,6 @@ due_event:
 ---
 **Goals of this Lab**
 - Understand the embedded software design process from requirements to implementation
-- Understand how to translate business requirements/logic into code?
+- Understand how to translate business requirements/logic into code
 - Understand the necessary steps to design a system that uses a multitasking operating system.
 - Implementation and testing of a medium scale embedded system project
